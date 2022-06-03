@@ -1,2 +1,2 @@
-# shelah-testdb
-Test configuration and seed data
+# shelah-test
+Test scenarios and configuration for the Shelah project
